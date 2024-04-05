@@ -1,0 +1,5 @@
+2024-04-05 10:29:06.701 +05:30 [INF] Now listening on: https://localhost:7264
+2024-04-05 10:29:06.749 +05:30 [INF] Now listening on: http://localhost:5158
+2024-04-05 10:29:06.757 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-05 10:29:06.760 +05:30 [INF] Hosting environment: Development
+2024-04-05 10:29:06.762 +05:30 [INF] Content root path: F:\Blazor\BookStoreApp\BookStoreApp.API\
